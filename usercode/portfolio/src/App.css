@@ -170,7 +170,7 @@ a:hover {
   max-width: 50%;
   margin-top: 0.2rem;
 }
-.about .about-info .about-description-mobile{
+.about .about-info .about-descriptionmobile{
   display: flex;
   flex-direction: column;
   text-align: justify;

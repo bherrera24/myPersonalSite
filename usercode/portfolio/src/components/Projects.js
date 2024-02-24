@@ -1,4 +1,4 @@
-import Project from '../assets/login.png';
+import Project from '../assets/todolistImg.png';
 import data from '../data/projects.json';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -46,12 +46,22 @@ const Projects = () => {
                                             <a
                                             className="project-button"
                                             target="_blank"
-                                            href={project.link}
+                                            href={project.linkGitHub}
                                             rel="noreferrer"
                                             >GitHub
                                             </a>
                                         </div>
+                                        
                                     </div>
+                                    <div>
+                                            <a
+                                            className="project-button"
+                                            target="_blank"
+                                            href={project.linkDemo}
+                                            rel="noreferrer"
+                                            >Demo
+                                            </a>
+                                        </div>
                                 </div>
                             )
                         })

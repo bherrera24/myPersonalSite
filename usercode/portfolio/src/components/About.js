@@ -36,7 +36,7 @@ const About = () => {
         <div id="about" className="about">
             <h1 className="about-heading">About Me</h1>
             <div className="about-info">
-                <div className={`about-description-${mobile}`}>
+                <div className={`about-description${mobile}`}>
                  I genuinely enjoy using technical innovation to overcome business challenges and bring improvements. Analytical, client-centered and solutions-driven Software Developer with extensive experience in leading the development and application of sophisticated software solutions in the aerospace, healthcare and telecommunications sectors. Expert in providing highly technical knowledge and analysis of specialized applications, identifying and investigating application problems, performing root cause analysis, and implementing an action plan for the resolution and dissemination of conclusions. Decidedly skilled in both backend and frontend development with the ability to design, create and evolve user-facing applications to be scalable, maintainable and usable using a combination of languages and client-side scripts and frameworks. I am recognized for abilities to bridge gaps between business and technology and envision the bigger picture. My core areas of strength include: 
                     <ul>
                      <li>Full Stack Development</li>
