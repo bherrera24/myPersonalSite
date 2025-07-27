@@ -50,10 +50,9 @@ const Projects = () => {
                                             rel="noreferrer"
                                             >GitHub
                                             </a>
-                                        </div>
+                                      
                                         
-                                    </div>
-                                    <div>
+                                  
                                             <a
                                             className="project-button"
                                             target="_blank"
@@ -61,6 +60,7 @@ const Projects = () => {
                                             rel="noreferrer"
                                             >Demo
                                             </a>
+                                              </div>
                                         </div>
                                 </div>
                             )

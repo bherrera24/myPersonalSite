@@ -10,7 +10,7 @@ const Body = () => {
 
                     <div className="body-content">
                         <div className="body-headline">Berenice Herrera</div>
-                        <div className="body-text">Consultant Full Stack Developer</div>
+                        <div className="body-text">Full Stack Developer</div>
                     </div>
 
                     <div className="body-icons">

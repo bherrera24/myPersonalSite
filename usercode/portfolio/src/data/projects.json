@@ -1,6 +1,5 @@
 [
     {
-        "name" : "To do list",
         "description" : "this app allows to do a checklist",
         "linkGitHub" : "https://github.com/bherrera24/toDoList",
         "linkDemo" :"https://to-do-list-bere.netlify.app" 
