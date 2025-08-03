@@ -18,7 +18,7 @@ const About = () => {
   Passionate about clean code, continuous improvement, and collaboration in agile teams.
 </p>
 
-      <span>📍 Based in Santiago, Chile</span>
+      {/* <span>📍 Based in Santiago, Chile</span> */}
     
 
 
